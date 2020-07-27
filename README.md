@@ -1,1 +1,1 @@
-This is Mungoose's first git project!
+This is Mungoose's first git project! ;)
